@@ -1,4 +1,4 @@
-package ex04controlstatement;
+	package ex04controlstatement;
 
 /*
 for문
